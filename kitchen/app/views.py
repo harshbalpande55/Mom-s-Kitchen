@@ -8,7 +8,7 @@ from time import time
 from django.views.decorators.csrf import csrf_exempt
 # for razorpay
 import razorpay
-client = razorpay.Client(auth=("rzp_test_bRl6JQ5PIxqG6q","KbDoK8bmCGp4kNFZwRlQAL8z"))
+client = razorpay.Client(auth=("",""))
 
 
 def cart_quantity(product,cart):
