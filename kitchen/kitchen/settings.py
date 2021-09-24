@@ -163,5 +163,5 @@ MESSAGE_TAGS={
     messages.ERROR:'danger'
 }
 
-KEY_ID = "rzp_test_bRl6JQ5PIxqG6q"
-KEY_SECRET = "KbDoK8bmCGp4kNFZwRlQAL8z"
+KEY_ID = ""
+KEY_SECRET = ""
